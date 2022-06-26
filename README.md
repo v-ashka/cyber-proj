@@ -1,4 +1,16 @@
 # Filmawka
+
+# [LIVE](https://filmawka-php.herokuapp.com/)
+
+>
+> Podstawowi userzy
+> 
+> pracownik (dodaje filmy) : `pracownik h: student`
+> 
+> recenzent : `recenzent h: student`
+> 
+> administrator: `jak w routerach tp-linka :)`
+
 Projekt w którym użytkownik może komentować i oceniać dodane przez pracowników filmy. Dodatkową rolą w systemie jest rola recenzenta którego recenzje pojawiają się w innej sekcji
 Najbardziej uprawnionym użytkownikiem w systemie jest administrator, majacy podgląd aktywności użytkowników, usuwania ich treści, modyfikacji sposobu weryfikacji konta,
 oraz blokady danego konta.
