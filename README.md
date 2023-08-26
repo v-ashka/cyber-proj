@@ -1,6 +1,6 @@
 # Filmawka
 
-# [LIVE](https://filmawka.bieda.it/)
+# [LIVE](filmawka.bieda.it/)
 
 >
 > Podstawowi userzy
